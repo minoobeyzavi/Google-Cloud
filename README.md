@@ -31,4 +31,12 @@ Google leverages generative AI to streamline complex data ingestion and processi
 • Automated Code Generation: AI agents can automatically write the necessary SQL or Python transformation code required to clean fragmented, complex "dark data" sitting in Cloud Storage.
 • Semantic Cleaning: Moves beyond simple structural formatting to fix data based on a conceptual understanding of the information.
 
-<a href="https://cloud.google.com/blog/products/data-analytics/data-curation-accelerators-for-google-data-cloud">Accelerating data curation with Google Data Cloud</a>
+https://cloud.google.com/blog/products/data-analytics/bigquery-data-clean-rooms-now-available-in-public-preview</br>
+https://cloud.google.com/use-cases/data-clean-rooms</br>
+https://medium.com/@williamwarley/mastering-the-cloud-the-ultimate-guide-to-harnessing-google-clouds-data-analytics-powerhouse-b1aa57cea0c0</br>
+https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month</br>
+https://www.linkedin.com/pulse/google-clouds-bigquery-clean-room-comprehensive-guide-prateek-shekhar-mbocc</br>
+<a href="https://cloud.google.com/blog/products/data-analytics/data-curation-accelerators-for-google-data-cloud">Accelerating data curation with Google Data Cloud</a></br>
+https://cloud.google.com/discover/what-is-data-processing</br>
+https://docs.cloud.google.com/bigquery/docs/data-clean-rooms</br>
+https://cloud.google.com/blog/products/gcp/google-cloud-platform-adds-new-tools-for-easy-data-preparation-and-integration

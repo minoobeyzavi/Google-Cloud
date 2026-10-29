@@ -113,11 +113,12 @@ For complex data manipulation or handling petabyte-scale data streaming in real-
 Direct Feature Comparison
 
 
-Tool	Core Interface	Scaling Capacity	Best Used For
-Gemini Data Prep	AI-Assisted / Visual	High (Native BigQuery)	Fast, automated schema fixing and cleansing
-Cloud Dataprep	Graphical UI / No-code	Medium to High	Exploratory data analysis and visual cleaning
-BigQuery / Dataform	SQL	Enterprise-Scale	Production-grade warehousing and relational data
-Dataproc / Dataflow	Python, Java, Scala	Unlimited / Elastic	Complex transformations, streaming data, and unstructured logs
+| Tool | Core Interface	 | Scaling Capacity | Best Used For |
+| :--- | :--- | :--- | :--- |
+| Gemini Data Prep | AI-Assisted / Visual | High (Native BigQuery) | Fast, automated schema fixing and cleansing |
+| Cloud Dataprep | Graphical UI / No-code | Medium to High | Exploratory data analysis and visual cleaning |
+| BigQuery / Dataform | SQL | Enterprise-Scale	 | Production-grade warehousing and relational data |
+| Dataproc / Dataflow | Python, Java, Scala | Unlimited / Elastic | Complex transformations, streaming data, and unstructured logs |
 
 To narrow down the best solution for each project, consider the following:
 • What format is your raw data currently in (e.g., CSVs in Cloud Storage, BigQuery tables, real-time streams)?
@@ -129,10 +130,12 @@ https://cloud.google.com/blog/products/data-analytics/bigquery-data-clean-rooms-
 https://cloud.google.com/blog/products/data-analytics/introducing-ai-driven-bigquery-data-preparation</br>
 https://medium.com/google-cloud/data-preprocessing-with-google-cloud-dataprep-by-trifacta-a3dd96263c48</br>
 https://cloud.google.com/use-cases/data-clean-rooms</br>
+https://medium.com/@chawanwit.petch/building-an-end-to-end-data-pipeline-for-internet-usage-analysis-on-google-cloud-platform-5e424dae0ae4</br>
 https://medium.com/@williamwarley/mastering-the-cloud-the-ultimate-guide-to-harnessing-google-clouds-data-analytics-powerhouse-b1aa57cea0c0</br>
 https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month</br>
 https://www.linkedin.com/pulse/google-clouds-bigquery-clean-room-comprehensive-guide-prateek-shekhar-mbocc</br>
 <a href="https://cloud.google.com/blog/products/data-analytics/data-curation-accelerators-for-google-data-cloud">Accelerating data curation with Google Data Cloud</a></br>
 https://cloud.google.com/discover/what-is-data-processing</br>
 https://docs.cloud.google.com/bigquery/docs/data-clean-rooms</br>
-https://cloud.google.com/blog/products/gcp/google-cloud-platform-adds-new-tools-for-easy-data-preparation-and-integration
+https://cloud.google.com/blog/products/gcp/google-cloud-platform-adds-new-tools-for-easy-data-preparation-and-integration</br>
+https://discuss.google.dev/t/from-chaos-to-clarity-fast-track-data-engineering-with-autocleaning/352479
